@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentLesson</string>
+    <string name="add_text_button_name">Добавить</string>
+</resources>
